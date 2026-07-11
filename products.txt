@@ -1,0 +1,6 @@
+Vitamin C Serum,Garnier,200,1000.0,France
+Skin Cleanser,Cetaphil,100,280.0,Switzerland
+Sunscreen,Aqualogica, 200,700.0,India
+Centella Ampoule Toner, centella Asiatica ,10,545, Korea
+Matte sun stick ,Beauty of Joseon,20, 145, Korea
+Cleanser, Cera ve ,30, 1500, US
